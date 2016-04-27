@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[this is the world and life...the way I see it]]></title>
         <description><![CDATA[this is the world and life...the way I see it]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-way-i-see-it/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 22:47:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 22:51:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-way-i-see-it/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hi! ]]></title>
             <description><![CDATA[<p>Hi!</p>]]></description>
-            <link>undefinedhi/index.html</link>
+            <link>https://thegrid.ai/the-way-i-see-it/hi/index.html</link>
             <guid isPermaLink="false">48237f2a-564f-444f-87d2-1f5f0da9a244</guid>
-            <pubDate>Wed, 27 Apr 2016 22:47:16 GMT</pubDate>
+            <pubDate>Wed, 27 Apr 2016 22:50:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
